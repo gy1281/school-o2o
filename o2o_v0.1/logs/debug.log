@@ -1,0 +1,51 @@
+2020-04-17 11:04:23.050 [main] DEBUG com.oligay.o2o.util.FileUtil - shopImgPath: /upload/item/shopImage/5/
+2020-04-17 11:04:23.058 [main] DEBUG com.oligay.o2o.util.ImageUtil - fileName: 2020041711042320321
+2020-04-17 11:04:23.058 [main] DEBUG com.oligay.o2o.util.ImageUtil - extension: .jpeg
+2020-04-17 11:04:23.058 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:04:23.059 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:04:23.059 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片相对路径 /upload/item/shopImage/5/2020041711042320321.jpeg
+2020-04-17 11:04:23.060 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:04:23.060 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:04:23.060 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片完整路径 /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/upload/item/shopImage/5/2020041711042320321.jpeg
+2020-04-17 11:04:23.074 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:04:23.074 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:04:23.074 [main] DEBUG com.oligay.o2o.util.FileUtil - waterMarkImg path: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/watermark.jpeg
+2020-04-17 11:05:54.969 [main] DEBUG com.oligay.o2o.util.FileUtil - shopImgPath: /upload/item/shopImage/1/
+2020-04-17 11:05:54.971 [main] DEBUG com.oligay.o2o.util.ImageUtil - fileName: 2020041711055447204
+2020-04-17 11:05:54.971 [main] DEBUG com.oligay.o2o.util.ImageUtil - extension: .jpeg
+2020-04-17 11:05:54.971 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:05:54.971 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:05:54.971 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片相对路径 /upload/item/shopImage/1/2020041711055447204.jpeg
+2020-04-17 11:05:54.972 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:05:54.972 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:05:54.972 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片完整路径 /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/upload/item/shopImage/1/2020041711055447204.jpeg
+2020-04-17 11:05:54.983 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:05:54.984 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:05:54.984 [main] DEBUG com.oligay.o2o.util.FileUtil - waterMarkImg path: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/watermark.jpeg
+2020-04-17 11:06:58.404 [main] DEBUG com.oligay.o2o.util.FileUtil - shopImgPath: /upload/item/shopImage/1/
+2020-04-17 11:06:58.406 [main] DEBUG com.oligay.o2o.util.ImageUtil - fileName: 2020041711065860106
+2020-04-17 11:06:58.407 [main] DEBUG com.oligay.o2o.util.ImageUtil - extension: .jpeg
+2020-04-17 11:06:58.407 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:06:58.407 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:06:58.407 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片相对路径 /upload/item/shopImage/1/2020041711065860106.jpeg
+2020-04-17 11:06:58.408 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:06:58.408 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:06:58.408 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片完整路径 /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/upload/item/shopImage/1/2020041711065860106.jpeg
+2020-04-17 11:06:58.420 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:06:58.420 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:06:58.420 [main] DEBUG com.oligay.o2o.util.FileUtil - waterMarkImg path: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/watermark.jpeg
+2020-04-17 11:07:00.019 [main] DEBUG com.oligay.o2o.util.FileUtil - shopImgPath: /upload/item/shopImage/1/
+2020-04-17 11:07:00.020 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:07:00.020 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:07:00.020 [main] DEBUG com.oligay.o2o.util.ImageUtil - fileName: 2020041711070034679
+2020-04-17 11:07:00.020 [main] DEBUG com.oligay.o2o.util.ImageUtil - extension: .jpeg
+2020-04-17 11:07:00.020 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片相对路径 /upload/item/shopImage/1/20200417110700346790.jpeg
+2020-04-17 11:07:00.020 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:07:00.020 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:07:00.020 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片完整路径 /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/upload/item/shopImage/1/20200417110700346790.jpeg
+2020-04-17 11:07:00.033 [main] DEBUG com.oligay.o2o.util.ImageUtil - fileName: 2020041711070068825
+2020-04-17 11:07:00.033 [main] DEBUG com.oligay.o2o.util.ImageUtil - extension: .jpeg
+2020-04-17 11:07:00.033 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片相对路径 /upload/item/shopImage/1/20200417110700688251.jpeg
+2020-04-17 11:07:00.033 [main] DEBUG com.oligay.o2o.util.FileUtil - os.name: Mac OS X
+2020-04-17 11:07:00.034 [main] DEBUG com.oligay.o2o.util.FileUtil - basePath: /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image
+2020-04-17 11:07:00.034 [main] INFO  com.oligay.o2o.util.ImageUtil - 图片完整路径 /Users/guoqs/Documents/JavaProject/ssmProject/o2o/image/upload/item/shopImage/1/20200417110700688251.jpeg
